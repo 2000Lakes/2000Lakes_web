@@ -3,5 +3,39 @@ This is an interactive platform prototype for 2000Lakes.
 
 To run the web locally, use python 3, type http-server in the terminal. 
 
+Folder data: necessary data for the web visualization. 
+            full_data.csv: full data for lakes.
+            folder cantons: contains seperate data for lakes in each canton.
+            cantons.geojson: geojson file for all cantons.
+            tot_lake.geojson: downloaded geojson file from Swisstopo including lakes that are not in our database.
+            folder lakes_geojson: seperate geojson file for each lake, named in lake id.
+            tot_sampled.csv: sampled data from 2000Lakes.
+            data_preprocess.ipynb: process code for the data (not used in web implementation).
+            
+Folder lib: necessary libraries for web implementation.
 
+Folder node_modules: the library canvas-confetti for visualizing the winning effect of the chatbot game.
 
+index.html: main web page.
+
+lake_page.html: web page for lake info, generated from map.js.
+
+empty_wiki.html: web page showing invitation to create Wikipedia page for lake.
+
+footer.html: footer part embeded on other pages.
+
+bar.js: code for the progress bar viz.
+
+game.js: code for the chatbot game.
+
+gashapon.js: code for the gashapon machine.
+
+map.js: the main viz part, map implementation, including all interaction related to the map.
+
+measures.js: code for the interactive measures.
+
+radioBtn.js: code for the radio buttons in the first section.
+
+resizeupdate.js: code for resizing the main elements when the window size changed.
+
+style.css: the main style file.
