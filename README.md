@@ -22,7 +22,7 @@ The web can also be accessed from this link: [https://2000lakes.github.io/2000La
 
 **Folder node_modules**: the library canvas-confetti for visualizing the winning effect of the chatbot game.
 
-**index.html**: main web page. To modify the main web, one way is to add more section in this file and add a seperate js file. Avoid duplicated variable names!  
+**index.html**: main web page. To modify the main web, one way is to add more sections in this file and add more seperate js files. Please avoid duplicated variable names!  
 
 **lake_page.html**: web page for lake info, generated from map.js.
 
