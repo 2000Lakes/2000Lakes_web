@@ -3,20 +3,20 @@ This is an interactive platform prototype for the 2000Lakes project.
 
 
 ### Try a demo
-* Current platform has some issues with Safari. Please use Chrome or Firefox if possible.)
+***Current platform has some issues with Safari. Please use Chrome or Firefox if possible.***  
 To run the web locally, use python 3, type ``http-server`` in the terminal. Pleases install all the necessary dependencies.  
 The web can also be accessed from this link: [https://2000lakes.github.io/2000Lakes_web/](https://2000lakes.github.io/2000Lakes_web/)
 
 
 ### Documents explanation
-**Folder data**: necessary data for the web visualization. 
-            **full_data.csv**: full data for lakes.
-            **folder cantons**: contains seperate data for lakes in each canton.
-            **cantons.geojson**: geojson file for all cantons.
-            **tot_lake.geojson**: downloaded geojson file from Swisstopo including lakes that are not in our database.
-            **folder lakes_geojson**: seperate geojson file for each lake, named in lake id.
-            **tot_sampled.csv**: sampled data from 2000Lakes.
-            **data_preprocess.ipynb**: process code for the data (not used in web implementation).
+**Folder data**: necessary data for the web visualization.  
+            **full_data.csv**: full data for lakes.  
+            **folder cantons**: contains seperate data for lakes in each canton.  
+            **cantons.geojson**: geojson file for all cantons.  
+            **tot_lake.geojson**: downloaded geojson file from Swisstopo including lakes that are not in our database.  
+            **folder lakes_geojson**: seperate geojson file for each lake, named in lake id.  
+            **tot_sampled.csv**: sampled data from 2000Lakes.  
+            **data_preprocess.ipynb**: process code for the data (not used in web implementation).  
             
 **Folder lib**: necessary libraries for web implementation.
 
