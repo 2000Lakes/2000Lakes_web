@@ -3,8 +3,9 @@ This is an interactive platform prototype for the 2000Lakes project.
 
 
 ### Try a demo
+* Current platform has some issues with Safari. Please use Chrome or Firefox if possible.)
 To run the web locally, use python 3, type ``http-server`` in the terminal. Pleases install all the necessary dependencies.  
-The web can also be accessed from this link: 
+The web can also be accessed from this link: [https://2000lakes.github.io/2000Lakes_web/](https://2000lakes.github.io/2000Lakes_web/)
 
 
 ### Documents explanation
