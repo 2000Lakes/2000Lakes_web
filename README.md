@@ -1,7 +1,7 @@
 # 2000Lakes_web
 This is an interactive platform prototype for 2000Lakes.
 
-To run the web locally, use python 3, type http-server in the terminal. 
+To run the web locally, use python 3, type ``http-server`` in the terminal. 
 
 Folder data: necessary data for the web visualization. 
             full_data.csv: full data for lakes.
